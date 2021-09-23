@@ -1,41 +1,30 @@
 # DVD-Rental-Project
 
 ### Date created
-This project has been created on 31/7/2021
-This README.md file has been created on 20/8/2021
+This project has been created on 11/7/2021
+This README.md file has been created on 23/9/2021
 
 ### Project Title
 DVD-Rental-Project
 
 ### Description
-We can set one simple description for this projet "Interactive user experience"
-this project make your user use his data easily , without taking more time to get the information he need , simply this project for bikeshare compnay named "Motivation" has three branches in difrrent three cities in USA (Chicago , Washington , Newyourk) , this company has a system to allows people to borrow a bike from city  and return it at another , though they can also return it to the same location if they'd like to just go for a ride , and this project made to allow people to filter by city , by month , and by day to know some of important insights as below:
 
-* Popular times of travel (i.e., occurs most often in the start time)
-   * most common month
-   * most common day of week
-   * most common hour of day
+In this project, we query the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. For this project, we will be querying the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance. To assist you in the queries ahead, the schema for the DVD Rental database is provided below.
 
-* Popular stations and trip
-   * most common start station
-   * most common end station
-   * most common trip from start to end (i.e., most frequent combination of start station and end station)
 
-* Trip duration
-   * total travel time
-   * average travel time
-   
-* User info
-   * counts of each user type
-   * counts of each gender (only available for NYC and Chicago)
-   * earliest, most recent, most common year of birth (only available for NYC and Chicago)
   
 ### installation 
 * installing gits
-* pycharm Or Atom or any code editor
+* Postgres SQL Database and pycharm Or Atom or any code editor
 
 
 ### Files used
-* Chicago.csv
-* washington.csv
-* newyourk.csv
+* Address.csv
+* Category .csv
+* City.csv
+* Country.csv
+* customer.csv
+* film.csv
+* film_actor.csv
+* film_category.csv
+* inventory.csv
